@@ -1,4 +1,4 @@
-## Cloudflare Workers Sites
+## Cloudflare Workers Sites vs Cloudflare Pages
 
 Perf is done by `npx autocannon [URL]`.
 
